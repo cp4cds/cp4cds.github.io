@@ -16,6 +16,7 @@ It can be helpful to preview changes on your computer before opening a pull requ
 
 - Make sure you have ruby installed on your computer. See https://www.ruby-lang.org/en/downloads/
 - `bundle install`
+- `jekyll build`
 - `jekyll serve`
 - Point your browser at http://127.0.0.1:4000/
 
