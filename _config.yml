@@ -1,1 +1,16 @@
-theme: jekyll-theme-modernist
+title: CP4CDS
+author: Ag Stephens
+email: ag.stephens@stfc.ac.uk
+theme: minima
+description: >
+  CP4CDS is a project to develop data services in support of the Copernicus Climate Change Service.
+
+# social links
+github_username: cp4cds
+rss: rss
+
+header_pages:
+  - about.md
+  - documentation.md
+  - usage.md
+  - contact.md
