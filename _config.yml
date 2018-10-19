@@ -7,13 +7,8 @@ description: >
 
 # social links
 github_username: cp4cds
-rss: rss
 
 header_pages:
   - about.md
   - documentation.md
-  - usage.md
   - contact.md
-
-plugins:
-  - jekyll-last-modified-at

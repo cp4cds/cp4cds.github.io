@@ -6,7 +6,7 @@ gem "minima"
 group :development do
   gem 'jekyll', '~> 3.8.0'
   #gem 'jekyll-sitemap'
-  gem 'jekyll-last-modified-at'
+  #gem 'jekyll-last-modified-at'
   #gem 'jemoji'
 end
 
