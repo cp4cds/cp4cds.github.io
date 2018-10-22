@@ -5,6 +5,14 @@ permalink: /about/
 ---
 ## What is the project about?
 
+We provide infrastructure to access climate projects with data and compute services using standard interfaces.
+
 ## Who is working on the project?
 
+* STFC/CEDA - http://www.ceda.ac.uk/
+* IPSL - https://www.ipsl.fr/en
+* DKRZ - https://www.dkrz.de/
+
 ## Which projects and groups do we work with?
+
+* C3S Magic - https://portal.c3s-magic.eu/
