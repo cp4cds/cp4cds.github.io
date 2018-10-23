@@ -11,5 +11,4 @@ CP4CDS is a project to develop data services in support of the [Copernicus Clima
 
 * [CP4CDS Quality Control](https://cp4cds-qcapp.ceda.ac.uk/)
 * [ESGF Data Node for CP4CDS](https://cp4cds-index1.ceda.ac.uk/projects/cp4cds_ceda/)
-* [Load Balanced Test Index Node](https://index.mips.copernicus-climate.eu/projects/testproject/)
 * [Compute Demo App](https://bovec.dkrz.de/)
