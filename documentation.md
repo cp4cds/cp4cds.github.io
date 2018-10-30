@@ -10,6 +10,8 @@ Find out more about how we are doing these things:
 * [Birdhouse](http://bird-house.github.io/) - The Birdhouse Web Processing Service framework, a server and client environment for hosted processing.
 * [SDDS](https://sdds.readthedocs.io/en/latest/) - The CP4CDS Software Dependency Deployment Solution, a framework for defining and sharing software environments.
 * [Copernicus WPS Demo](https://copernicus-wps-demo.readthedocs.io/en/latest/) - The CP4CDS Compute Node, built on the Birdhouse WPS environment.
+* [CliMAF WPS Demo](https://climaf-wps-demo.readthedocs.io/en/latest/) - A Web Processing Service for CliMAF.
+* [C4CDS WPS](https://c4cds-wps.readthedocs.io/en/latest/) - A WPS Compute Service for CMIP5 and CORDEX climate model data.
 
 <!--
 - [svcs/authn.md](Authentication) - let's get this one out of the way first...important stuff you need to know how to do :-)
