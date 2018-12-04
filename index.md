@@ -10,5 +10,5 @@ CP4CDS is a project to develop data services in support of the [Copernicus Clima
 ## Services
 
 * [CP4CDS Quality Control](https://cp4cds-qcapp.ceda.ac.uk/)
-* [ESGF Data Node for CP4CDS](https://cp4cds-index1.ceda.ac.uk/projects/cp4cds_ceda/)
-* [Compute Demo App](https://bovec.dkrz.de/)
+* [Geographically load-balanced ESGF search end-point for C3S Climate Model Simulations](https://index.mips.copernicus-climate.eu/esg-search/search)
+* [Compute Node App](https://bovec.dkrz.de/)
