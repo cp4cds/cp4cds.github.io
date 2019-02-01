@@ -15,6 +15,8 @@ Compute Node:
 
 * [Birdhouse](http://bird-house.github.io/) - The Birdhouse Web Processing Service framework, a server and client environment for hosted processing.
 * [SDDS](https://sdds.readthedocs.io/en/latest/) - The CP4CDS Software Dependency Deployment Solution, a framework for defining and sharing software environments.
+* [PyWPS](https://pywps.org/)
+* [GeoHealthCheck](https://geohealthcheck.org/)
 
 Demos:
 
