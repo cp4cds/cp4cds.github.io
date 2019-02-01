@@ -15,8 +15,8 @@ Compute Node:
 
 * [Birdhouse](http://bird-house.github.io/) - The Birdhouse Web Processing Service framework, a server and client environment for hosted processing.
 * [SDDS](https://sdds.readthedocs.io/en/latest/) - The CP4CDS Software Dependency Deployment Solution, a framework for defining and sharing software environments.
-* [PyWPS](https://pywps.org/)
-* [GeoHealthCheck](https://geohealthcheck.org/)
+* [PyWPS](https://pywps.org/) - PyWPS is an implementation of the Web Processing Service standard.
+* [GeoHealthCheck](https://geohealthcheck.org/) - GeoHealthCheck is a Python application to support monitoring OGC Web Services uptime and availability.
 
 Demos:
 
