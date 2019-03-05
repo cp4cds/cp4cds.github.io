@@ -17,3 +17,4 @@ We provide infrastructure to access climate projections with data and compute se
 
 * [C3S Magic](https://portal.c3s-magic.eu/)
 * [ESGF](https://esgf.llnl.gov/)
+* [CORDEX4CDS](https://www.meteo.unican.es/en/projects/cordex4cds)
