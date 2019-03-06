@@ -3,8 +3,9 @@ layout: page
 title: Technology
 permalink: /tech/
 ---
+We provide here information about the technology (software) we use and access points to our services.
 
-## Quick Access to our Services
+## Access Points to our Services
 
 Here is collection of the CP4CDS web services (data and compute):
 
@@ -14,22 +15,24 @@ Here is collection of the CP4CDS web services (data and compute):
 * [Compute Demo App](https://bovec.dkrz.de/)
 * [GeoHealthCheck Demo for WPS Compute Service](https://bovec.dkrz.de/ghc/resources?lang=en&resource_type=OGC%3AWPS)
 
-## Software Tools
+## Software
 
 Please check the list of our software tools we use in our data and compute infrastructure.
 
-Data Service Tools:
+Data Service Software:
 
 * [ESGF Installer](https://github.com/ESGF/esgf-installer/wiki) - Installation Guide for ESGF data nodes.
 * [esgf-pyclient](https://esgf-pyclient.readthedocs.io/en/latest/) - Python library for searching ESGF holdings.
 * [synda](http://prodiguer.github.io/synda/) - Python command-line tool for searching, selecting, downloading and replicating ESGF data.
 
-Compute Service Tools:
+Compute Service Software:
 
 * [Birdhouse](http://bird-house.github.io/) - The Birdhouse Web Processing Service framework, a server and client environment for hosted processing.
 * [SDDS](https://sdds.readthedocs.io/en/latest/) - The CP4CDS Software Dependency Deployment Solution, a framework for defining and sharing software environments.
 * [PyWPS](https://pywps.org/) - PyWPS is an implementation of the Web Processing Service standard.
 * [GeoHealthCheck](https://geohealthcheck.org/) - GeoHealthCheck is a Python application to support monitoring OGC Web Services uptime and availability.
+
+## Demo Applications
 
 Compute Service Applications for Demonstration:
 
