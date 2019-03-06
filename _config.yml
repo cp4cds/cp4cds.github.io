@@ -10,5 +10,6 @@ github_username: cp4cds
 
 header_pages:
   - about.md
-  - documentation.md
+  - overview.md
+  - tech.md
   - contact.md
