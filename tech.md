@@ -9,11 +9,15 @@ We provide here information about the technology (software) we use and access po
 
 Here is collection of the CP4CDS web services (data and compute):
 
-* [Data Quality Control App](https://cp4cds-qcapp.ceda.ac.uk/)
+* [Data Availability App](https://cp-availability.ceda.ac.uk/)
+  * The Data Availability Application is provided to allow questions to be asked about the availability of different variables and models in CMIP5.
 * [Geographically load-balanced ESGF search end-point for C3S Climate Model Simulations](https://index.mips.copernicus-climate.eu/esg-search/search)
-* [Geographically load-balanced Compute Service using the Web Processing Service standard interface](http://compute.mips.copernicus-climate.eu/wps?service=WPS&version=1.0.0&request=GetCapabilities)
-* [Compute Demo App](https://bovec.dkrz.de/)
-* [GeoHealthCheck Demo for WPS Compute Service](https://bovec.dkrz.de/ghc/resources?lang=en&resource_type=OGC%3AWPS)
+  * This search interface is an **XML document**. It is a *computational interface* that can be interacted with by various client tools. More details on interacting with the *ESGF Search* interface can be found at:
+  * https://github.com/ESGF/esgf.github.io/wiki/ESGF_Search_REST_API
+* [Geographically load-balanced Compute Service using the Web Processing Service (WPS) standard interface](http://compute.mips.copernicus-climate.eu/wps?service=WPS&version=1.0.0&request=GetCapabilities)
+  * This interface is an **XML document**. It is a *computational interface* that can be interacted with by various WPS client tools. An example client tool is the Phoenix interface, hosted by DKRZ. This provides a graphical user interface for interacting with a WPS service:
+  * https://bovec.dkrz.de/processes/list?wps=ccds
+
 
 ## Software
 
