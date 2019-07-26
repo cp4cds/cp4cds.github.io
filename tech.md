@@ -38,9 +38,12 @@ Data Service Software:
 Compute Service Software:
 
 * [Birdhouse](http://bird-house.github.io/) - The Birdhouse Web Processing Service framework, a server and client environment for hosted processing.
+  * Birdhouse has provided the basic structure and templates for creating new Web Processing Services (WPS) within the project.
 * [SDDS](https://sdds.readthedocs.io/en/latest/) - The CP4CDS Software Dependency Deployment Solution, a framework for defining and sharing software environments.
+  * The SDDS has provided a re-usable system for defining and developing software environments to support specific WPS deployments. 
+  * The SDDS uses the Conda package management tool to capture, and reproduce, python software environments.
 * [PyWPS](https://pywps.org/) - PyWPS is an implementation of the Web Processing Service standard.
-* [GeoHealthCheck](https://geohealthcheck.org/) - GeoHealthCheck is a Python application to support monitoring OGC Web Services uptime and availability.
+  * PyWPS is used as the core package within Birdhouse for providing basic WPS functionality.
 
 ## WPS application documentation
 
