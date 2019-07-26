@@ -25,9 +25,15 @@ Please check the list of our software tools we use in our data and compute infra
 
 Data Service Software:
 
-* [ESGF Installer](https://github.com/ESGF/esgf-installer/wiki) - Installation Guide for ESGF data nodes.
-* [esgf-pyclient](https://esgf-pyclient.readthedocs.io/en/latest/) - Python library for searching ESGF holdings.
+* [ESGF Installer](https://github.com/ESGF/esgf-installer/wiki)
+  * This is the Installation Guide for building, maintaining and running an ESGF Data Nodes.
+  * This was used in the project for deploying the CP4CDS Data Service.
+* [esgf-pyclient](https://esgf-pyclient.readthedocs.io/en/latest/)
+  * Python library for searching ESGF holdings.
+  * esgf-pyclient was used in the project for querying data availability. It is used by a wider community as a tool for locating, and downloading, data sets held on ESGF, or CP4CDS, systems.
 * [synda](http://prodiguer.github.io/synda/) - Python command-line tool for searching, selecting, downloading and replicating ESGF data.
+  * Synda has been used for identifying data within other parts of the federation, and replicating data between sites.
+  * It can also be used by end-users to manage bulk transfers of ESGF, or CP4CDS, data sets from remote sites.
 
 Compute Service Software:
 
@@ -36,10 +42,9 @@ Compute Service Software:
 * [PyWPS](https://pywps.org/) - PyWPS is an implementation of the Web Processing Service standard.
 * [GeoHealthCheck](https://geohealthcheck.org/) - GeoHealthCheck is a Python application to support monitoring OGC Web Services uptime and availability.
 
-## Demo Applications
+## WPS application documentation
 
-Compute Service Applications for Demonstration:
+Documentation links are provided here for building/deploying WPS applications developed within the project:
 
-* [Copernicus WPS](https://copernicus-wps-demo.readthedocs.io/en/latest/) - The CP4CDS Compute Node, built on the Birdhouse WPS environment.
 * [CliMAF WPS](https://climaf-wps-demo.readthedocs.io/en/latest/) - A Web Processing Service for CliMAF.
 * [C4CDS WPS](https://c4cds-wps.readthedocs.io/en/latest/) - A WPS Compute Service for CMIP5 and CORDEX climate model data.
